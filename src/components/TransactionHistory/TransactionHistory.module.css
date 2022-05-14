@@ -1,0 +1,31 @@
+.transaction {
+  width: 500px;
+  color: #000;
+  margin: 0 auto;
+  margin-top: 35px;
+  box-shadow: 0 0 3px rgba(8, 8, 10, 0.5);
+  text-align: center;
+}
+
+tr,
+th,
+td {
+  padding: 10px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+thead {
+  background-color: rgb(4, 192, 199);
+  color: aliceblue;
+}
+
+tr {
+  font-size: 20px;
+}
+
+td {
+  font-size: 20px;
+  color: rgb(134, 134, 134);
+  text-transform: capitalize;
+}
