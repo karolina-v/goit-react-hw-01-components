@@ -17,5 +17,3 @@ FriendListItem.propTypes = {
 };
 
 export default FriendListItem;
-
-// className={s.status}
