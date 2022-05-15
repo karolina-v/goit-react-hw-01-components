@@ -1,10 +1,11 @@
 .transaction {
+  color: black;
   width: 500px;
-  color: #000;
-  margin: 0 auto;
-  margin-top: 35px;
+  border-collapse: collapse;
   box-shadow: 0 0 3px rgba(8, 8, 10, 0.5);
+  border: 1px solid grey;
   text-align: center;
+  margin: auto auto;
 }
 
 tr,
